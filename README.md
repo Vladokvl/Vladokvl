@@ -21,11 +21,11 @@ I build full-stack web applications where the backend stays solid and the fronte
 | **GlamPick** — Hospitality booking engine with seasonal pricing, availability buffers & Jest tests | NestJS, Next.js, PostgreSQL, Prisma, Jest | [glampick.zhovtok.work](https://glampick.zhovtok.work) |
 | **VoytArt Gallery** — Interactive art platform with scroll-scrub canvas tour & Admin CMS | Next.js, TypeScript, GSAP, Lenis, Cloudinary | [voytart.com](https://voytart.com) |
 
-*Note: Source code for commercial client work and university/product repos is kept private, while public code samples (Full-Stack Support Ticket app with Express/Prisma/Docker, React/TS E-Commerce Catalog, etc.) are pinned below.*
+*Note: Source code for commercial client work and university/product repos is kept private; foundational public React, TypeScript, and UI projects are pinned below.*
 
 ---
 
 ### Connect
 - **LinkedIn:** [linkedin.com/in/vladislav-zhovtani](https://www.linkedin.com/in/vladislav-zhovtani/)
 - **Telegram:** [@Vladyslav_Zhovtani](https://t.me/Vladyslav_Zhovtani)
-- **Email:** `zovtanyy@gmail.com`
+- **Email:** `vladyslav.zhovtani@gmail.com`
